@@ -28,7 +28,7 @@
 	"dependencies": {
 		"archive-type": "^4.0.0",
 		"caw": "^2.0.1",
-		"content-disposition": "^0.5.2",
+		"content-disposition": "github:dolearning/content-disposition.git",
 		"decompress": "^4.2.0",
 		"ext-name": "^5.0.0",
 		"file-type": "^8.1.0",
